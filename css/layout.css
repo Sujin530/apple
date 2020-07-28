@@ -708,6 +708,21 @@ call-to-action .button {
 #testimonials blockquote cite a,
 #testimonials blockquote cite a:visited { color: #8B9798; border: none }
 
+
+
+/* ------------------------------------------------------------------
+/* g. Photo
+/* ------------------------------------------------------------------ */
+
+
+#photo {
+   background: #2B2B2B;
+   padding-top: 96px;
+   padding-bottom: 66px;
+   overflow: hidden;
+}
+
+
 /* Flex Slider
 /* ------------------------------------------------------------------ */
 
