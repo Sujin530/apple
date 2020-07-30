@@ -434,6 +434,17 @@ ul#nav li.current a { color: #F06000; }
    color: #95A3A3;
 }
 
+
+#photo h1 {
+   font: 15px/24px 'opensans-semibold', sans-serif;
+   text-transform: uppercase;
+   letter-spacing: 1px;
+   text-align: center;
+   margin-bottom: 48px;
+   color: #FFFFFF;
+}
+
+
 /* Portfolio Content */
 #portfolio-wrapper .columns { margin-bottom: 36px; }
 .portfolio-item .item-wrap {
