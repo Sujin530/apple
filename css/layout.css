@@ -337,8 +337,8 @@ ul#nav li.current a { color: #F06000; }
 
 .iworks {
   	width: 92%;
-  	-moz-animation: photoshop 2s ease;
-  	-webkit-animation: photoshop 2s ease;
+  	-moz-animation: iworks 2s ease;
+  	-webkit-animation: iworks 2s ease;
 }
 .photoshop {
   	width: 92%;
@@ -352,23 +352,23 @@ ul#nav li.current a { color: #F06000; }
 }
 .uxuidesign {
   	width: 50%;
-  	-moz-animation: css 2s ease;
-  	-webkit-animation: css 2s ease;
+  	-moz-animation: uxuidesign 2s ease;
+  	-webkit-animation: uxuidesign 2s ease;
 }
 .java {
   	width: 50%;
-  	-moz-animation: html5 2s ease;
-  	-webkit-animation: html5 2s ease;
+  	-moz-animation: java 2s ease;
+  	-webkit-animation: java 2s ease;
 }
 .htmlcss {
   	width: 50%;
-  	-moz-animation: jquery 2s ease;
-  	-webkit-animation: jquery 2s ease;
+  	-moz-animation: htmlcss 2s ease;
+  	-webkit-animation: htmlcss 2s ease;
 }
 .javascript {
   	width: 50%;
-  	-moz-animation: java 2s ease;
-  	-webkit-animation: java 2s ease;
+  	-moz-animation: javascript 2s ease;
+  	-webkit-animation: javascript 2s ease;
 }
 .swiftui {
   	width: 30%;
